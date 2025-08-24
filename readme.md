@@ -17,3 +17,6 @@ pip freeze > requirements.txt
 google => https://aistudio.google.com/apikey
 
 openai => https://platform.openai.com/settings/organization/api-keys
+
+# 3. Executar o programa
+python3 <arquivo>
