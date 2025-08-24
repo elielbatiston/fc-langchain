@@ -36,3 +36,7 @@ Resumo-> resumo dos 3 capitulos
 Esse usa mais.
 
 Na instrução load_summarize_chain(llm, chain_type="map_reduce", verbose=True), o verbose=True você consegue ver como que ele tá trabalhando e como ele tá pedindo para a llm e ele vai fazendo a chamada pra gente
+
+# 3. Agentes e Tools
+
+LangChain Hub => Onde tem vários prompts ou artefatos pra te ajudar a trabalhar no dia a dia.
